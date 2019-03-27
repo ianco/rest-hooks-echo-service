@@ -1,8 +1,8 @@
 
-Start a sjango shell and enter the following commands:
+Start a django shell and enter the following commands:
 
 ```bash
-python manage.y shell
+python manage.py shell
 
 from django.contrib.auth.models import User
 from rest_hooks.models import Hook
