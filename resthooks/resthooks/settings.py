@@ -25,7 +25,7 @@ SECRET_KEY = 'cos^t3$q7q=h6@4@gonk9)tj@0nfgjnd6g2&fjds79-9*p)6-e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
