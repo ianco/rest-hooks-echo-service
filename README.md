@@ -4,8 +4,8 @@
 Git clone this repository, and run the following commands:
 
 ```
-git clone https://github.com/ianco/rest-hooks-getting-started.git
-cd rest-hooks-getting-started/resthooks
+git clone https://github.com/ianco/rest-hooks-echo-service.git
+cd rest-hooks-echo-service/resthooks
 ./run_docker.sh
 ```
 
